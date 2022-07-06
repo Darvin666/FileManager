@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Built-By: adm07
+Build-Jdk: 17.0.3
+Class-Path: lib/maven-jar-plugin-3.0.2.jar lib/maven-plugin-api-3.0.jar 
+ lib/maven-model-3.0.jar lib/sisu-inject-plexus-1.4.2.jar lib/sisu-injec
+ t-bean-1.4.2.jar lib/sisu-guice-2.1.7-noaop.jar lib/maven-core-3.0.jar 
+ lib/maven-settings-3.0.jar lib/maven-settings-builder-3.0.jar lib/maven
+ -repository-metadata-3.0.jar lib/maven-model-builder-3.0.jar lib/maven-
+ aether-provider-3.0.jar lib/aether-impl-1.7.jar lib/aether-spi-1.7.jar 
+ lib/aether-api-1.7.jar lib/aether-util-1.7.jar lib/plexus-interpolation
+ -1.14.jar lib/plexus-classworlds-2.2.3.jar lib/plexus-component-annotat
+ ions-1.5.5.jar lib/plexus-sec-dispatcher-1.3.jar lib/plexus-cipher-1.4.
+ jar lib/maven-artifact-3.0.jar lib/maven-archiver-3.1.1.jar lib/maven-s
+ hared-utils-3.0.1.jar lib/commons-io-2.5.jar lib/plexus-archiver-3.4.ja
+ r lib/plexus-io-2.7.1.jar lib/commons-compress-1.11.jar lib/snappy-0.4.
+ jar lib/xz-1.5.jar lib/plexus-utils-3.0.24.jar
+Main-Class: darvin.file_manager.Main
+Created-By: Maven Integration for Eclipse
+
