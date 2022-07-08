@@ -11,9 +11,9 @@ Class-Path: lib/maven-jar-plugin-3.0.2.jar lib/maven-plugin-api-3.0.jar
  -1.14.jar lib/plexus-classworlds-2.2.3.jar lib/plexus-component-annotat
  ions-1.5.5.jar lib/plexus-sec-dispatcher-1.3.jar lib/plexus-cipher-1.4.
  jar lib/maven-artifact-3.0.jar lib/maven-archiver-3.1.1.jar lib/maven-s
- hared-utils-3.0.1.jar lib/commons-io-2.5.jar lib/plexus-archiver-3.4.ja
- r lib/plexus-io-2.7.1.jar lib/commons-compress-1.11.jar lib/snappy-0.4.
- jar lib/xz-1.5.jar lib/plexus-utils-3.0.24.jar
+ hared-utils-3.0.1.jar lib/plexus-archiver-3.4.jar lib/plexus-io-2.7.1.j
+ ar lib/commons-compress-1.11.jar lib/snappy-0.4.jar lib/xz-1.5.jar lib/
+ plexus-utils-3.0.24.jar lib/commons-io-2.7.jar
 Main-Class: darvin.file_manager.Main
 Created-By: Maven Integration for Eclipse
 
